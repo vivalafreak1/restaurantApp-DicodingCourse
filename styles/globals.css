@@ -11,6 +11,10 @@ a {
   text-decoration: none;
 }
 
+p {
+  font-weight: normal;
+}
+
 * {
   box-sizing: border-box;
 }
